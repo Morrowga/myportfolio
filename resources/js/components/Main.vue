@@ -117,7 +117,7 @@
                             </div>
                         </div>
                     </b-jumbotron>
-                     <b-jumbotron class="b-jump" style="font-family: 'Noto Sans', sans-serif; background-image: url('/Challenger 11 BG-01.png'); background-size: cover;" >
+                     <!-- <b-jumbotron class="b-jump" style="font-family: 'Noto Sans', sans-serif; background-image: url(''); background-size: cover;" >
                         <div class="d-flex justify-content-center">
                             <div class="col-md-3">
                                 <img src="/Challenger 11 Logo White.png" alt="" width="150" height="110" style="margin-top: 30px; text-align:center;">
@@ -132,7 +132,7 @@
                             </div>
                         </div>
                     </b-jumbotron>
-                     <b-jumbotron class="b-jump" style="font-family: 'Noto Sans', sans-serif; background-image: url('/Challenger 11 BG-01.png'); background-size: cover;" >
+                     <b-jumbotron class="b-jump" style="font-family: 'Noto Sans', sans-serif; background-image: url(''); background-size: cover;" >
                         <div class="d-flex justify-content-center">
                             <div class="col-md-3">
                                 <img src="/Challenger 11 Logo White.png" alt="" width="150" height="110" style="margin-top: 30px; text-align:center;">
@@ -146,7 +146,7 @@
                                 border-top-right-radius: 26px;border-bottom-right-radius: 26px;" href="https://www.challenger11.com/">Visit Site</b-button>
                             </div>
                         </div>
-                    </b-jumbotron>
+                    </b-jumbotron> -->
                 </div>
             </div>
             <div class="col-md-12">
@@ -275,7 +275,7 @@ header {
    border-radius: 0%;
    color: #fff !important;
    text-align: center !important;
-   background-image: url('/giphy (1).gif') !important;
+   background-image: url('https://i.imgur.com/zy1JbiK.jpg') !important;
    background-size: cover !important;
    background-repeat: no-repeat !important;
     font-family: 'Merriweather Sans', sans-serif;
